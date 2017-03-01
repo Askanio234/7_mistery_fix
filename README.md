@@ -1,7 +1,26 @@
-# Quadratic Equations Solver
+# Нахождение корней квадратного трехчлена
 
-[TODO. There will be project description]
+Скрипт проверяет правильность алгоритма нахождения корней квадратного трехчлена.
+В соответсвии с тест-кейсами, описанными в файле tests.py
 
-# Project Goals
+# Пример использования:
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+Запуск на Linux:
+
+```#!bash
+
+python tests.py
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
+
+```
+
+Запуск на Windows происходит аналогично.
+
+
+# Цели проекта
+
+Код создан в учебных целях. В рамках учебного курса по веб-разработке - [DEVMAN.org](https://devman.org)
